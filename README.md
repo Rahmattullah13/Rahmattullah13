@@ -1,4 +1,6 @@
-### Hi i'm Rifki Rahmattullah 👋 as a Backend Developer with Nodejs.
+### Hi i'm Rifki Rahmattullah 👋 as a Backend Developer with Nodejs from Indonesia.
+
+- 🌱 I’m currently learning Nodejs, Hapijs, Postgresql, redis.
 
 <!--
 **Rahmattullah13/Rahmattullah13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,4 @@
-
-![Banner](https://user-images.githubusercontent.com/55880165/190863015-b615473c-7d66-4cf9-b084-aa7346ea5805.png)
-
+[![@rahmattullah_13's Holopin board](https://holopin.io/api/user/board?user=rahmattullah_13)](https://holopin.io/@rahmattullah_13)
 
 
 | ![Github Stats of Rifki](https://github-readme-stats.vercel.app/api?username=Rahmattullah13&show_icons=true&theme=buefy)  | ![Profile Stats of Rifki](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmattullah13&layout=compact&hide=html&theme=buefy) |

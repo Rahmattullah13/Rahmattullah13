@@ -1,7 +1,8 @@
 [![@rahmattullah_13's Holopin board](https://holopin.io/api/user/board?user=rahmattullah_13)](https://holopin.io/@rahmattullah_13)
 
 
-| ![Github Stats of Rifki](https://github-readme-stats.vercel.app/api?username=Rahmattullah13&show_icons=true&theme=buefy)  | ![Profile Stats of Rifki](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmattullah13&layout=compact&hide=html&theme=buefy) |
+| ![Github Stats of Rifki](https://github-readme-stats.vercel.app/api?username=Rahmattullah13&show_icons=true&theme=buefy)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmattullah13)](https://github.com/Rahmattullah13/github-readme-stats)
+ |
 | :-------------: | :-------------: |
 
 ### Connect With Me
